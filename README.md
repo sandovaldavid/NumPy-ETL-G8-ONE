@@ -134,7 +134,7 @@ de datos.
 ### 👨‍💻 Desarrollado con ❤️ por
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Sandoval-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devsandoval)
-[![GitHub](https://img.shields.io/badge/GitHub-@yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandovaldavid)
+[![GitHub](https://img.shields.io/badge/GitHub-@sandovdavid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandovaldavid)
 
 Programa ONE Education G8 - Alura
 
